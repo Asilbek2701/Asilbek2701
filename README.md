@@ -1,6 +1,5 @@
 # Hi, I'm Asilbek 👋
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Asilbek2701&color=blueviolet)](https://github.com/Asilbek2701)
 [![GitHub followers](https://img.shields.io/github/followers/Asilbek2701?label=Follow&style=social)](https://github.com/Asilbek2701)
 
 ---
