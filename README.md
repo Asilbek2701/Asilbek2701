@@ -36,9 +36,9 @@ My goal: Build real-world applications, contribute to open-source, and become a 
   <img src="https://streak-stats.demolab.com/?user=Asilbek2701&theme=dark" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://ghchart.rshah.org/Asilbek2701" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Asilbek2701&color=blue" />
