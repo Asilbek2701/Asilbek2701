@@ -1,78 +1,128 @@
-# Hi, I'm Asilbek 👋
+<p align="center">
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" alt="Hi, I'm Asilbek" width="350"/>
+</p>
 
+<h1 align="center">Hi, I'm Asilbek 👋</h1>
+<h3 align="center">Full-Stack Developer in Progress | Python • Django • Flask</h3>
 
-[![GitHub followers](https://img.shields.io/github/followers/Asilbek2701?label=Follow&style=social)](https://github.com/Asilbek2701)
+<p align="center">
+  <a href="https://github.com/Asilbek2701">
+    <img src="https://img.shields.io/github/followers/Asilbek2701?label=Follow&style=social" alt="GitHub Followers" />
+  </a>
+</p>
 
 ---
 
 ## 🌐 About Me
-Hello! I’m **Asilbek Karomatov**, a passionate **Full-Stack Developer in progress** from **Karakul, Uzbekistan**.  
-I am currently studying at **Acharya University** and focusing on mastering **Django** and **Flask**, alongside strong fundamentals in **Python, HTML, CSS, JavaScript, C, SQLite, SQLAlchemy, MySQL**, and **Ubuntu**.  
 
-My goal is to become a professional **full-stack developer**, contribute to open-source projects, and build impactful applications.
+Hello! I’m **Asilbek Karomatov**, a passionate **Full-Stack Developer (in progress)** from **Karakul, Uzbekistan**.  
+I’m currently studying at **Acharya University** and focusing on mastering **Django**, **Flask**, and building strong fundamentals in:
+
+- **Python**, **C**, **JavaScript**  
+- **HTML**, **CSS**  
+- **SQLite**, **MySQL**, **SQLAlchemy**  
+- **Ubuntu**, **Git**, **GitHub**
+
+My goal is to become a professional **full-stack developer**, build impactful applications, and contribute to **open-source projects**.
+
+---
+
+## ⚡ GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Asilbek2701&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asilbek2701&layout=compact&theme=tokyonight" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Asilbek2701&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/Asilbek2701" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Asilbek2701&color=blue" />
+</p>
 
 ---
 
 ## 🛠 Skills
 
 ### Programming & Scripting
-- **Languages:** Python, C, JavaScript  
-- **Web Development:** HTML, CSS, Django, Flask  
-- **Databases:** SQLite, MySQL, SQLAlchemy  
-- **Tools & OS:** Ubuntu, Git, GitHub  
+- Python | C | JavaScript  
+- HTML | CSS  
+- Django | Flask  
+- SQLite | MySQL | SQLAlchemy  
+- Ubuntu | Git | GitHub
 
-### Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### 🔧 Tech Stack & Progress
+<p>
+**Python** <br>
+<img src="https://progress-bar.dev/90/?title=Python&color=3776AB" width="200" /><br>
 
----
+**Django** <br>
+<img src="https://progress-bar.dev/80/?title=Django&color=092E20" width="200" /><br>
 
-## 🎯 Goals
-- Become a professional **Full-Stack Developer**  
-- Build real-world applications using Django & Flask  
-- Contribute to **open-source projects**  
-- Expand my knowledge in **modern web technologies**  
+**Flask** <br>
+<img src="https://progress-bar.dev/75/?title=Flask&color=000000" width="200" /><br>
+
+**HTML5** <br>
+<img src="https://progress-bar.dev/95/?title=HTML5&color=E34F26" width="200" /><br>
+
+**CSS3** <br>
+<img src="https://progress-bar.dev/90/?title=CSS3&color=1572B6" width="200" /><br>
+
+**JavaScript** <br>
+<img src="https://progress-bar.dev/80/?title=JavaScript&color=F7DF1E" width="200" /><br>
+
+**MySQL** <br>
+<img src="https://progress-bar.dev/85/?title=MySQL&color=4479A1" width="200" /><br>
+
+**SQLite** <br>
+<img src="https://progress-bar.dev/90/?title=SQLite&color=003B57" width="200" /><br>
+
+**Ubuntu** <br>
+<img src="https://progress-bar.dev/80/?title=Ubuntu&color=E95420" width="200" /><br>
+
+**Git** <br>
+<img src="https://progress-bar.dev/90/?title=Git&color=F05032" width="200" /><br>
+
+**GitHub** <br>
+<img src="https://progress-bar.dev/90/?title=GitHub&color=181717" width="200" /><br>
+</p>
 
 ---
 
 ## 🏆 Projects
-Here are some of my recent projects:
 
 | Project Name | Description | Technologies | GitHub |
-|--------------|-------------|-------------|--------|
-| Personal Portfolio | My portfolio website showcasing my skills & projects | HTML, CSS, JavaScript | [Repo](https://github.com/Asilbek2701) |
-| Django Blog App | Blog platform with CRUD functionality | Django, SQLite | [Repo](https://github.com/Asilbek2701) |
-| Flask ToDo App | Task management web app | Flask, SQLAlchemy | [Repo](https://github.com/Asilbek2701) |
-| Python Scripts | Collection of useful Python scripts | Python | [Repo](https://github.com/Asilbek2701) |
+|--------------|-------------|--------------|--------|
+| **Personal Portfolio** | Portfolio website with skills & projects | HTML, CSS, JavaScript | 🔗 [Repo](https://github.com/Asilbek2701) |
+| **Django Blog App** | Full CRUD Blog application | Django, SQLite | 🔗 [Repo](https://github.com/Asilbek2701) |
+| **Flask ToDo App** | Task management web application | Flask, SQLAlchemy | 🔗 [Repo](https://github.com/Asilbek2701) |
+| **Python Scripts** | Useful Python automation scripts | Python | 🔗 [Repo](https://github.com/Asilbek2701) |
 
 > Add more projects as you complete them!
 
 ---
 
+## 🎯 Goals
+- Become a professional **Full-Stack Developer**  
+- Build real-world apps in **Django & Flask**  
+- Contribute to **open-source**  
+- Master modern web technologies  
+
+---
+
 ## 📫 Contact Me
-Feel free to reach out to me via:
 
-- **Telegram:** [@as1lbek_2706](https://t.me/as1lbek_2706)  
-- **Email:** [karomatovasilbek61@gmail.com](mailto:karomatovasilbek61@gmail.com), [asiloke797@gmail.com](mailto:asiloke797@gmail.com)  
-- **LinkedIn:** [Asilbek Karomatov](https://www.linkedin.com/in/asilbek-karomatov-91336b33b)  
-- **Phone:** +998 50-753-66-36  
-
----
-
-## ⚡ GitHub Stats
-![Asilbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asilbek2701&show_icons=true&theme=blue-green)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asilbek2701&layout=compact&theme=blue-green)
-
+- 💬 Telegram: **[@as1lbek_2706](https://t.me/as1lbek_2706)**  
+- 📧 Email: **karomatovasilbek61@gmail.com**, **asiloke797@gmail.com**  
+- 🔗 LinkedIn: **[Asilbek Karomatov](https://www.linkedin.com/in/asilbek-karomatov-91336b33b)**  
+- 📱 Phone: **+998 50-753-66-36**
 
 ---
 
-> “The only way to do great work is to love what you do.” – Steve Jobs
+<p align="center"><i>“The only way to do great work is to love what you do.” – Steve Jobs</i></p>
